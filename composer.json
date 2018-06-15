@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/userguide",
+	"name":        "lestor/userguide",
 	"type":        "kohana-module",
 	"description": "Kohana user guide and live API documentation module",
 	"homepage":    "http://kohanaframework.org",
