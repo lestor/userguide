@@ -21,13 +21,13 @@
 	},
 	"require": {
 		"composer/installers": "~1.0",
-		"kohana/core":         ">=3.4",
+		"lestor/core":         ">=3.4",
 		"php":                 ">=5.4.0"
 	},
     "require-dev": {
-        "kohana/core":         "3.4.*@dev",
-        "kohana/unittest":     "3.4.*@dev",
-        "kohana/koharness":    "*@dev"
+        "lestor/core":         "3.4.*@dev",
+        "lestor/unittest":     "3.4.*@dev",
+        "lestor/koharness":    "*@dev"
     },
 	"extra": {
 		"branch-alias": {
